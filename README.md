@@ -8,7 +8,7 @@ To add Fixed Point Math as a local, per-project dependency to your project, simp
 
     {
         "require": {
-            "qubb/fixed-point-math": ">=0.1"
+            "qubb/fixed-point-math": "0.1.*"
         }
     }
 
