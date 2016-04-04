@@ -1,0 +1,35 @@
+{
+	"name": "qubb/fixed-point-math",
+	"type": "library",
+	"description": "Provides functionality for fixed point mathematics",
+	"keywords": ["fixed-point", "number", "decimal", "round", "gmp", "bcmath"],
+	"license": "MIT",
+	"homepage": "https://github.com/qubbDev/fixed-point-math",
+	"authors": [
+		{
+				"name": "Dmitriy Karmishkin",
+				"email": "psssix@gmail.com"
+		}
+	],
+	"minimum-stability": "stable",
+	"require": {
+		"php": ">=5.3.3",
+		"ext-bcmath": "*"
+	},
+	"require-dev": {
+		"codeception/codeception": "2.1.2",
+		"codeception/specify": "0.4.1",
+		"codeception/verify": "0.2.7",
+		"codeception/mockery-module": "0.2.0"
+	},
+	"autoload": {
+		"psr-4": {
+		  "qubb\\fixedPointMath\\": ""
+		}
+	},
+	"extra": {
+		"branch-alias": {
+		  "dev-master": "1.0.x-dev"
+		}
+	}
+}

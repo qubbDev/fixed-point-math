@@ -1,0 +1,10 @@
+#PhpStorm folder
+.idea
+
+#NetBeans folder
+nbproject
+
+#Composer vendor folder
+vendor
+#Composer lock file
+composer.lock

@@ -1,0 +1,8 @@
+include:
+  - codeception/math
+
+paths:
+  log: _output
+
+settings:
+  colors: true

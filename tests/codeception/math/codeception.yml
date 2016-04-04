@@ -1,0 +1,15 @@
+namespace: qubb\FixedPointMath\tests\codeception\math
+actor: Tester
+paths:
+    tests: .
+    log: _output
+    data: _data
+    helpers: _support
+settings:
+    bootstrap: ../../../_bootstrap.php
+    suite_class: \PHPUnit_Framework_TestSuite
+    colors: true
+    memory_limit: 1024M
+    log: false
+    shuffle: true
+config:
