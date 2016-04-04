@@ -7,8 +7,8 @@
 	"homepage": "https://github.com/qubbDev/fixed-point-math",
 	"authors": [
 		{
-				"name": "Dmitriy Karmishkin",
-				"email": "psssix@gmail.com"
+			"name": "Dmitriy Karmishkin",
+			"email": "psssix@gmail.com"
 		}
 	],
 	"minimum-stability": "stable",
