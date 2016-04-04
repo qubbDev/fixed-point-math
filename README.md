@@ -15,10 +15,9 @@ To add Fixed Point Math as a local, per-project dependency to your project, simp
 ## Using
 
 Use
+
 	\qubb\FixedPointMath\helpers\Rounder::ceil($value, $precision);
-or
 	\qubb\FixedPointMath\helpers\Rounder::floor($value, $precision);
-or
 	\qubb\FixedPointMath\helpers\Rounder::round($value, $precision);
 	
 for rounding numbers in the right direction
